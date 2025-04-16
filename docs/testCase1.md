@@ -47,7 +47,7 @@ When logging in as a standard user, the browser indicates that data is being lea
 
 ## Error Description (if applicable):
 
-![vazamento de dados](/images/image.png)
+![vazamento de dados](/images/testCase1/dataLeaked.png)
 
 Data leak error probably occurring because the password is not hashing when it is sent to the database.
 
