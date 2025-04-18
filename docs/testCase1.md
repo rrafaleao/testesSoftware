@@ -3,8 +3,7 @@
 This test verifies that the SuiteCRM login process works correctly when valid credentials are provided.
 ## Objective:
 To confirm that the system authenticates a user with valid credentials and redirects to the dashboard properly.
-## What is being tested:
- The login functionality and authentication flow of the SuiteCRM system.
+
 ## Prerequisites:
 * A valid user account exists in the system.
 

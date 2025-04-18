@@ -5,9 +5,6 @@ This test verifies that the SuiteCRM login process works correctly when invalid 
 ## Objective:
 To confirm that the system authenticates a user with valid credentials and doesn't let users with wrong username or password log in.
 
-## What is being tested:
-The login functionality and flow of the SuiteCRM system.
-
 ## Prerequisites:
 * A valid user account exists in the system.
 * Access to the SuiteCRM instance at crm.alunostds.dev.br using a supported browser (Chrome, Firefox, or Edge).
