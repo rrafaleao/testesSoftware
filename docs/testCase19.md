@@ -3,7 +3,7 @@
 Browser compatibility test for the system.
 
 ## Objective:  
-Ensure the system works properly on Chrome, Firefox, Edge, and Safari.
+Ensure the system works properly on Chrome, Firefox and Edge.
 
 ## Prerequisites:  
 - Web-accessible system  
@@ -27,5 +27,12 @@ Test successful. No compatibility issues found.
 ## Error Description (if applicable):  
 N/A
 
-## Evidence:  
-colocar imagens amanha
+## Evidence: 
+* Test on Microsoft Edge  
+![microsoftEdge](/images/testCase19/microsoftEdge.png)  
+
+* Test on Google Chrome  
+![googleChrome](/images/testCase19/googleChrome.png)
+
+* Test on FireFox  
+![fireFox](/images/testCase19/fireFox.png)
