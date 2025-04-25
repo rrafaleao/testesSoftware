@@ -25,7 +25,7 @@ System worked perfectly on all browsers.
 Test successful. No compatibility issues found.
 
 ## Error Description (if applicable):  
-N/A
+No errors in system behavior.
 
 ## Evidence: 
 * Test on Microsoft Edge  
