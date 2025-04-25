@@ -38,8 +38,8 @@ No errors in system behavior.
 
 ## Evidence:
 
-![Saved Filters](/images/testCase6/savedFilters.png)
+![Saved Filters](/images/testCase06/savedFilters.png)
 * Filtro salvo que funciona perfeitamente para filtros que precisam ser rápidos.
 
-![Filter Test](/images/testCase6/filterTest.png)
+![Filter Test](/images/testCase06/filterTest.png)
 * Resultado de uma busca no filtro 'nome' Por 'TESTE' tudo em maiusculo para testar as capacidades de diferencia-las.

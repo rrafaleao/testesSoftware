@@ -32,4 +32,4 @@ No errors in system behavior.
 
 ## Evidence:
 Successful test  
-![successulTest](/images/testCase4/successfulTest.png)
+![successulTest](/images/testCase04/successfulTest.png)

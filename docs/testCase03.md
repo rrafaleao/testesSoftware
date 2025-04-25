@@ -35,4 +35,4 @@ When the user try to create a empty contact, the only required field is 'Last na
 And if user put anything there, it become possible to create a contact only with last name
 
 ## Evidence:
-![descricaoErro](/images/testCase3/missingBlanks.png)  
+![descricaoErro](/images/testCase03/missingBlanks.png)  

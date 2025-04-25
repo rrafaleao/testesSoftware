@@ -38,4 +38,4 @@ No errors in system behavior. The authentication system functioned as designed.
 Screenshot of the login page showing the "Login credentials incorrect, please try again." error message.  
 
 
-![LoginIncorreto](/images/testCase2/invalidLogin.png)
+![LoginIncorreto](/images/testCase02/invalidLogin.png)

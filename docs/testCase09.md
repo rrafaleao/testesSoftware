@@ -31,8 +31,8 @@ The system demonstrated excellent responsiveness across all tested devices. All 
 
 ## Evidence:
 
-![Iphone SE](/images/testCase9/iphoneTest.png)
+![Iphone SE](/images/testCas09/iphoneTest.png)
 
-![IPad Pro](/images/testCase9/ipadTest.png)
+![IPad Pro](/images/testCas0e9/ipadTest.png)
 
-![Samsung A51/71](/images/testCase9/samsungTest.png)
+![Samsung A51/71](/images/testCase09/samsungTest.png)
